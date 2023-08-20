@@ -6,9 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="13361899-cfdb-4e76-936b-a722cc74bd62" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/typography.md" beforeDir="false" afterPath="$PROJECT_DIR$/typography.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-18-welcome-to-jekyll.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-04-18-welcome-to-jekyll.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2015-04-20-welcome-to-jekyll.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2015-04-20-welcome-to-jekyll.markdown" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

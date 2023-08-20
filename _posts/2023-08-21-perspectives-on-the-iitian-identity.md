@@ -5,7 +5,7 @@ date:   2023-08-20T20:57:38+05:30
 author: Abhinav Jain
 categories: Blog
 tags:	IIT experience
-cover:  "/assets/header_image.png"
+cover:  "/assets/header_image.jpg"
 ---
 
 For countless Indians and academicians across the globe, the Indian Institute of Technology, commonly referred to as IIT, requires no formal introduction. With the inception of the first IIT in Kolkata back in 1950, later relocated to Kharagpur, IITs have consistently upheld their status as the premier Indian institutions and have served as the bedrock of technological prowess in India in the subsequent years. Graduates from IITs have made substantial contributions across diverse domains, encompassing technology, business, politics, and even spirituality. Eminent figures such as Narayan Murthy, Sundar Pichai, and Raghuram Rajan readily come to mind. The impact of these individuals has reverberated throughout the lives of countless individuals in India and the world.

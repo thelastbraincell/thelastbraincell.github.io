@@ -8,6 +8,8 @@ plugins:
 exclude:
   - "/vendor/"
 
+future: true
+
 # Site settings
 title: The last brain cell
 subtitle: "Okay, we are down to just one now"

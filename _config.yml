@@ -9,6 +9,7 @@ exclude:
   - "/vendor/"
 
 future: true
+timezone: Asia/Kolkata
 
 # Site settings
 title: The last brain cell
@@ -22,8 +23,8 @@ description: >
 # root of your server.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
-cover: "/assets/header_image.jpg"
-logo: "/assets/logo.png"
+cover: "/assets/donutplanet-banner.jpeg"
+logo: "/assets/lastbraincell-logo.png"
 
 # Build settings
 markdown: kramdown

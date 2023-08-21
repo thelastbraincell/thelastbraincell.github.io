@@ -49,7 +49,7 @@ jekyll-archives:
 # disqus_shortname: bencentra
 
 # Google analytics
-# ga_tracking_id: "UA-XXXX-1"
+ga_tracking_id: "G-1W1HCB62QB"
 
 # Category descriptions (for archive pages)
 descriptions:

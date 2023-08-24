@@ -91,7 +91,7 @@ $(document).ready(function() {
 
 {% if site.ga_tracking_id %}
 <!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-1W1HCB62QB"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id={{ site.ga_tracking_id }}"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}

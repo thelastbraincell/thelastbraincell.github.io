@@ -46,7 +46,7 @@ jekyll-archives:
     tag: '/tag/:name/'
 
 # Disqus comments
-# disqus_shortname: bencentra
+disqus_shortname: thelastbraincell
 
 # Google analytics
 ga_tracking_id: "G-1W1HCB62QB"

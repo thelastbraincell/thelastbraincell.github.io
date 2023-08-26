@@ -4,7 +4,7 @@ title:  "Perspectives on the IITian Identity: A Spectrum of Views"
 date:   2023-08-20T20:57:38+05:30
 author: Abhinav Jain
 categories: Blog
-tags:	IIT experience
+tags:	IIT Experience
 cover:  "/assets/iitb-banner.jpg"
 ---
 

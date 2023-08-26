@@ -2,7 +2,7 @@
 layout: post
 title:  "A Journey to Infinity and Beyond: The Voyager Mission"
 date:   2023-08-27T00:03:38+05:30
-author: Yash T Rajan
+author: Yash T. Rajan
 categories: Blog
 tags:	Space Technology
 cover:  "/assets/voyager-banner.jpg"

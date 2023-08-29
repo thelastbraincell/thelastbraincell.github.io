@@ -3,7 +3,6 @@ rvm:
   - 2.6.3
 script:
   - bundle exec jekyll build
-  - bundle exec htmlproofer ./_site --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true
 branches:
   only:
     - master

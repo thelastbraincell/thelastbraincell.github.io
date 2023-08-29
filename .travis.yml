@@ -20,6 +20,6 @@ deploy:
   on:
     branch: master
   repo: thelastbraincell/thelastbraincell.github.io
-  target_branch: master
+  target_branch: gh-pages
 notifications:
   email: false

@@ -1,0 +1,29 @@
+#!/bin/bash
+
+# skip if build is triggered by pull request
+if [ $TRAVIS_PULL_REQUEST == "true" ]; then
+  echo "this is PR, exiting"
+  exit 0
+fi
+
+# enable error reporting to the console
+set -e
+
+# cleanup "_site"
+rm -rf _site
+mkdir _site
+
+# clone remote repo to "_site
+git clone https://${TRAVIS_DEPLOY_TOKEN}@github.com/thelastbraincell/thelastbraincell.github.io.git --branch gh-pages _site
+
+# build with Jekyll into "_site"
+bundle exec jekyll build
+bundle exec htmlproofer ./_site --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true
+
+# push
+cd _site
+git config user.email "jainabhinav2412@gmail.com"
+git config user.name "abhistar"
+git add --all
+git commit -m "Travis #$TRAVIS_BUILD_NUMBER : Deploy to thelastbraincell/thelastbraincell.github.io"
+git push --force origin gh-pages

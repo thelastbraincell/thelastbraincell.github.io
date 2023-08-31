@@ -5,7 +5,7 @@ rvm:
 before_script:
   - bundle update
 script:
-  - bundle exec jekyll build
+  - bundle exec jekyll build --verbose
   - bundle exec htmlproofer ./_site --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true
 branches:
   only:

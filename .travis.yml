@@ -3,10 +3,6 @@ language: ruby
 cache: bundler
 rvm:
   - 2.6.3
-before_script:
-  - gem install bundler
-  - bundle update
-  - bundle install
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true

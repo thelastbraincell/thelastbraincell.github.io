@@ -6,7 +6,7 @@ plugins:
   - jekyll-paginate-v2
 
 exclude:
-  - "/vendor/"
+  - vendor
 
 future: true
 timezone: Asia/Kolkata

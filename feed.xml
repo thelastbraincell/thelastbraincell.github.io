@@ -4,18 +4,18 @@
     <title>The Last Brain Cell</title>
     <description>This is just an attempt to write a blog, please don't take us too seriously.
 </description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 31 Aug 2023 10:25:23 +0530</pubDate>
-    <lastBuildDate>Thu, 31 Aug 2023 10:25:23 +0530</lastBuildDate>
+    <link>https://thelastbraincell.xyz/</link>
+    <atom:link href="https://thelastbraincell.xyz/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 01 Sep 2023 01:20:19 +0530</pubDate>
+    <lastBuildDate>Fri, 01 Sep 2023 01:20:19 +0530</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
         <title>Explaining my Dad AI and Chat-GPT</title>
         <description>&lt;p&gt;&lt;em&gt;“Are you a millennial or younger who interacts with AI daily? Do you have parents who try hard to understand AI and what it does but fail to understand fully?...</description>
         <pubDate>Mon, 28 Aug 2023 01:00:00 +0530</pubDate>
-        <link>/blog/2023/08/28/explaining-my-day-ai-and-chat-gpt.html</link>
-        <guid isPermaLink="true">/blog/2023/08/28/explaining-my-day-ai-and-chat-gpt.html</guid>
+        <link>https://thelastbraincell.xyz/blog/2023/08/28/explaining-my-day-ai-and-chat-gpt.html</link>
+        <guid isPermaLink="true">https://thelastbraincell.xyz/blog/2023/08/28/explaining-my-day-ai-and-chat-gpt.html</guid>
         
         <category>Technology</category>
         
@@ -30,8 +30,8 @@
         <title>A Journey to Infinity and Beyond: The Voyager Mission</title>
         <description>&lt;p&gt;According to the latest United Nations Population Prospects report, the global median age as of the year 2020 was estimated to be 30.9 years, On August 25, 1989, at the...</description>
         <pubDate>Sun, 27 Aug 2023 00:03:38 +0530</pubDate>
-        <link>/blog/2023/08/27/a-journey-to-infinity-and-beyond.html</link>
-        <guid isPermaLink="true">/blog/2023/08/27/a-journey-to-infinity-and-beyond.html</guid>
+        <link>https://thelastbraincell.xyz/blog/2023/08/27/a-journey-to-infinity-and-beyond.html</link>
+        <guid isPermaLink="true">https://thelastbraincell.xyz/blog/2023/08/27/a-journey-to-infinity-and-beyond.html</guid>
         
         <category>Space</category>
         
@@ -46,8 +46,8 @@
         <title>Perspectives on the IITian Identity: A Spectrum of Views</title>
         <description>&lt;p&gt;For countless Indians and academicians across the globe, the Indian Institute of Technology, commonly referred to as IIT, requires no formal introduction. With the inception of the first IIT in...</description>
         <pubDate>Sun, 20 Aug 2023 20:57:38 +0530</pubDate>
-        <link>/blog/2023/08/20/perspectives-on-the-iitian-identity.html</link>
-        <guid isPermaLink="true">/blog/2023/08/20/perspectives-on-the-iitian-identity.html</guid>
+        <link>https://thelastbraincell.xyz/blog/2023/08/20/perspectives-on-the-iitian-identity.html</link>
+        <guid isPermaLink="true">https://thelastbraincell.xyz/blog/2023/08/20/perspectives-on-the-iitian-identity.html</guid>
         
         <category>IIT</category>
         

@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://thelastbraincell.xyz/sitemap.xml

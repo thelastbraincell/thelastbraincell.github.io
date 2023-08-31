@@ -2,6 +2,8 @@ dist: jammy
 language: ruby
 rvm:
   - 3.2.2
+before_script:
+  - bundle install
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true

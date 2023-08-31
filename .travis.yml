@@ -2,10 +2,7 @@ dist: jammy
 language: ruby
 rvm:
   - 3.2.2
-cache: bundler
 before_script:
-  - gem uninstall Jekyll --version 3.9.3
-  - gem update --system
   - bundle update
 script:
   - bundle exec jekyll build

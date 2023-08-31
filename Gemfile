@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'jekyll', '4.3.2'
+gem 'jekyll', '<4'
 gem 'html-proofer', '4.3.1'
 gem 'jekyll-archives'
 gem 'jekyll-sitemap'

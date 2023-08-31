@@ -2,8 +2,11 @@ dist: jammy
 language: ruby
 rvm:
   - 3.2.2
+cache: bundler
 before_script:
-  - bundle install
+  - gem uninstall Jekyll --version 3.9.3
+  - gem update --system
+  - bundle update
 script:
   - bundle exec jekyll build
   - bundle exec htmlproofer ./_site --allow-hash-href=true --enforce-https=false --ignore-missing-alt=true --disable-external=true
